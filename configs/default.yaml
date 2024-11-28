@@ -3,7 +3,7 @@ talker: terminal
 listener: terminal
 stream: true
 language: en
-name: Mia
+name: Torin
 print_listening: "User: "
 print_heard: ""
 mood: happy
